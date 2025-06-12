@@ -10,4 +10,4 @@ services:
     startCommand: npm run start
     envVars:
       - key: DATABASE_URL
-        value: postgresql://postgres:Megaepik@12@db.thgkagjvryghveosxoom.supabase.co:5432/postgres
+        value: postgresql://neondb_owner:npg_dNEhL27PWKsg@ep-green-voice-a8mto3l2-pooler.eastus2.azure.neon.tech/neondb?sslmode=require
