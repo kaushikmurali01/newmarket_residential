@@ -1,9 +1,15 @@
 services:
   - type: web
-    name: fullstack-app
-    runtime: node
-    buildCommand: npm install && npm run build
-    startCommand: npm run start
+    name: newmarket-residential
+    env: node
+    plan: free
+    buildCommand: |
+      npm install
+      npm run db:push
+      npm run build
+    startCommand: node dist/server.js
     envVars:
       - key: DATABASE_URL
-        value: YOUR_SUPABASE_DATABASE_URL
+        value: postgresql://postgres:Megaepik@12@db.thgkagjvryghveosxoom.supabase.co:5432/postgres
+      - key: NODE_VERSION
+        value: 18.18.2
