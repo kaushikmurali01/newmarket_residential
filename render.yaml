@@ -1,15 +1,13 @@
 services:
   - type: web
-    name: newmarket-residential
-    env: node
-    plan: free
+    name: fullstack-app
+    runtime: node
     buildCommand: |
-      npm install
+      npm config set registry https://registry.npmmirror.com
+      npm ci --include=dev
       npm run db:push
       npm run build
-    startCommand: node dist/server.js
+    startCommand: npm run start
     envVars:
       - key: DATABASE_URL
-        value: postgresql://postgres:Megaepik@12@db.thgkagjvryghveosxoom.supabase.co:5432/postgres
-      - key: NODE_VERSION
-        value: 18.18.2
+        value: YOUR_SUPABASE_DATABASE_URL
