@@ -10,4 +10,4 @@ services:
     startCommand: npm run start
     envVars:
       - key: DATABASE_URL
-        value: YOUR_SUPABASE_DATABASE_URL
+        value: postgresql://postgres:Megaepik@12@db.thgkagjvryghveosxoom.supabase.co:5432/postgres
