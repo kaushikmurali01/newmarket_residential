@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: fullstack-app
+    runtime: node
+    buildCommand: npm install && npm run build
+    startCommand: npm run start
+    envVars:
+      - key: DATABASE_URL
+        value: YOUR_SUPABASE_DATABASE_URL
