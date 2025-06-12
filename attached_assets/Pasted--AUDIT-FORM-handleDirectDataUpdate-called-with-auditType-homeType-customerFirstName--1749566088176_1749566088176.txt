@@ -1,0 +1,111 @@
+[AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] New auditData after direct update: {customerFirstName: '', customerLastName: '', customerEmail: '', customerPhone: '', customerAddress: '', …}
+Console.js:61 [AUDIT FORM] handleDirectDataUpdate called with: {auditType: '', homeType: '', customerFirstName: '', customerLastName: '', customerAddress: '', …}

@@ -1,0 +1,44 @@
+Unit change triggered: ft for floor: basement
+eruda.js:2 Unit change triggered: ft for floor: main
+eruda.js:2 Unit change triggered: ft for floor: basement
+eruda.js:2 Unit change triggered: ft for floor: floor-1749569529154
+eruda.js:2 Unit change triggered: m for floor: floor-1749569529154
+2eruda.js:2 Unit change triggered: ft for floor: basement
+eruda.js:2 [vite] server connection lost. Polling for restart...
+eruda.js:2 [vite] server connection lost. Polling for restart...
+Console.js:61 updateFloor called: {floorId: 'main', field: 'wallHeightUnit', value: 'ft'}
+Console.js:61 Current floors: (3) [{…}, {…}, {…}]
+Console.js:61 Updated floors: (3) [{…}, {…}, {…}]
+Console.js:61 updateFloor called: {floorId: 'main', field: 'wallHeightFeet', value: '16'}
+Console.js:61 Current floors: (3) [{…}, {…}, {…}]
+Console.js:61 Updated floors: (3) [{…}, {…}, {…}]
+Console.js:61 updateFloor called: {floorId: 'main', field: 'wallHeightInches', value: '4.75'}
+Console.js:61 Current floors: (3) [{…}, {…}, {…}]
+Console.js:61 Updated floors: (3) [{…}, {…}, {…}]
+Console.js:61 updateFloor called: {floorId: 'basement', field: 'wallHeightUnit', value: 'ft'}
+Console.js:61 Current floors: (3) [{…}, {…}, {…}]
+Console.js:61 Updated floors: (3) [{…}, {…}, {…}]
+Console.js:61 updateFloor called: {floorId: 'basement', field: 'wallHeightFeet', value: '26'}
+Console.js:61 Current floors: (3) [{…}, {…}, {…}]
+Console.js:61 Updated floors: (3) [{…}, {…}, {…}]
+Console.js:61 updateFloor called: {floorId: 'basement', field: 'wallHeightInches', value: '3'}
+Console.js:61 Current floors: (3) [{…}, {…}, {…}]
+Console.js:61 Updated floors: (3) [{…}, {…}, {…}]
+Console.js:61 updateFloor called: {floorId: 'floor-1749569697657', field: 'wallHeightUnit', value: 'ft'}
+Console.js:61 Current floors: (3) [{…}, {…}, {…}]
+Console.js:61 Updated floors: (3) [{…}, {…}, {…}]
+Console.js:61 updateFloor called: {floorId: 'floor-1749569697657', field: 'wallHeightFeet', value: '16'}
+Console.js:61 Current floors: (3) [{…}, {…}, {…}]
+Console.js:61 Updated floors: (3) [{…}, {…}, {…}]
+Console.js:61 updateFloor called: {floorId: 'floor-1749569697657', field: 'wallHeightInches', value: '4.75'}
+Console.js:61 Current floors: (3) [{…}, {…}, {…}]
+Console.js:61 Updated floors: (3) [{…}, {…}, {…}]
+Console.js:61 updateFloor called: {floorId: 'floor-1749569697657', field: 'wallHeightUnit', value: 'ft'}
+Console.js:61 Current floors: (3) [{…}, {…}, {…}]
+Console.js:61 Updated floors: (3) [{…}, {…}, {…}]
+Console.js:61 updateFloor called: {floorId: 'floor-1749569697657', field: 'wallHeightFeet', value: '16'}
+Console.js:61 Current floors: (3) [{…}, {…}, {…}]
+Console.js:61 Updated floors: (3) [{…}, {…}, {…}]
+Console.js:61 updateFloor called: {floorId: 'floor-1749569697657', field: 'wallHeightInches', value: '4.75'}
+Console.js:61 Current floors: (3) [{…}, {…}, {…}]
+Console.js:61 Updated floors: (3) [{…}, {…}, {…}]
